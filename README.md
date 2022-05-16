@@ -13,6 +13,8 @@
 
  - TimeComplexityCalculator: Asks for an integer and outputs all the time complexieties based on their mathematical formulas. Pretty cool! :watch::sunglasses:
 
+ - Shopping cart counter: A simple counter program made in react that allows a user to add or subtract quantities of an item from their cart or reset it. Feel free to try it out!
+
 
 
 
